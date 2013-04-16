@@ -1,6 +1,6 @@
 简明 Python 教程
 ===
-***waroop, C. H.** 著*  ***沈洁元**  译*
+***waroop, C. H.*** *著*  ***沈洁元***  *译*
 
 *www.byteofpython.info*
 
