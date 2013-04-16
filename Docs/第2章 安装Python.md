@@ -46,7 +46,7 @@ Windows®用户可以访问Python.org/download，从网站上下载最新的版�
 
 >如果你想要从Windows命令行调用Python，那么你需要先正确的设置PATH变量。
 
-> 对于Windows 2000、XP、2003，点击控制面板->系统->高级->环境变量。在“系统变量”表单中点击叫做**PATH**的变量，然后编辑这个变量，把;**C:\Python23**加到它的结尾。当然，是Python所在的正确目录名。
+> 对于Windows 2000、XP、2003，点击控制面板->系统->高级->环境变量。在“系统变量”表单中点击叫做 **PATH** 的变量，然后编辑这个变量，把; **C:\Python23** 加到它的结尾。当然，是Python所在的正确目录名。
 
 > 对于较旧版本的Windows，把下面这行加到文件C:\AUTOEXEC.BAT中： **PATH=%PATH%;C:\Python23** ，然后重新启动系统。对于Windows NT，则使用AUTOEXEC.NT文件。
 
