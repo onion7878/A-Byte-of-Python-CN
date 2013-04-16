@@ -48,7 +48,7 @@ Windows®用户可以访问Python.org/download，从网站上下载最新的版�
 
 > 对于Windows 2000、XP、2003，点击控制面板->系统->高级->环境变量。在“系统变量”表单中点击叫做**PATH**的变量，然后编辑这个变量，把;**C:\Python23**加到它的结尾。当然，是Python所在的正确目录名。
 
-> 对于较旧版本的Windows，把下面这行加到文件C:\AUTOEXEC.BAT中：**PATH=%PATH%;C:\Python23**，然后重新启动系统。对于Windows NT，则使用AUTOEXEC.NT文件。
+> 对于较旧版本的Windows，把下面这行加到文件C:\AUTOEXEC.BAT中： **PATH=%PATH%;C:\Python23** ，然后重新启动系统。对于Windows NT，则使用AUTOEXEC.NT文件。
 
 ## 概括
 对于Linux系统，很可能你已经在你的系统里安装了Python。否则，你可以通过你的发行版附带的包管理软件安装Python。对于Windows系统，安装Python就是下载安装程序然后双击它那么简单。从现在起，我们将假设你已经在你的系统里安装了Python。
