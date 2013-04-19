@@ -1,7 +1,7 @@
 ## Linux和BSD用户
 如果你正在使用一个Linux的发行版比如Fedora或者Mandrake或者其他（你的选择），或者一个BSD系统比如FreeBSD，那么你可能已经在你的系统里安装了Python。
 
-要测试你是否已经随着你的Linux包安装了Python，你可以打开一个shell程序（就像konsole或gnome-terminal）然后输入如下所示的命令**python -V**。
+要测试你是否已经随着你的Linux包安装了Python，你可以打开一个shell程序（就像konsole或gnome-terminal）然后输入如下所示的命令 **python -V** 。
 
 ```
 $ python -V
