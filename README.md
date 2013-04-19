@@ -21,6 +21,12 @@
 无论您刚接触电脑还是一个有经验的程序员，本书都将有助您学习使用Python语言。
 
 
+---
+这本书原始的网站在这里： [简明 Python 教程][ref_A_byte_of_Python] , 我只是偶然想学习一下Python，在网上发现了它，一眼觉得这个教程挺好，遂在 `GitHub` 上搜索，没有发现有人把他搬运到 `GitHub` 上。就自己来了，一方面是自己在搬运过程中可以更仔细的阅读这份教程，另一方面最近来学习了 [Markdown][ref_markdown] 也想找点东西练手。
+
+在搬运过程中，可能会疏忽的地方，如果你发现了，请告诉我或Fork it
 
 
+[ref_markdown]: http://daringfireball.net/projects/markdown/
+[ref_A_byte_of_Python]: http://woodpecker.org.cn/abyteofpython_cn/chinese/
 [ref_BY_ND_NC]: http://www.creativecommons.org/licenses/by-nd-nc/1.0/deed.zh
